@@ -31,9 +31,9 @@ ______
 
 <img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/polygon_solid_1.jpg" width =100% height =100% div align="center">  
 <p align="center">Figure 2.1 </p>
-<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/polygon_solid_2.jpg" width =100% height =100% div align="center">  
+<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/polygon_solid_2.png" width =100% height =100% div align="center">  
 <p align="center">Figure 2.2 </p>
-<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/polygon_solid_3.jpg" width =100% height =100% div align="center">  
+<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/polygon_solid_3.png" width =100% height =100% div align="center">  
 <p align="center">Figure 2.3 </p>
-<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/polygon_solid_4.jpg" width =100% height =100% div align="center">  
+<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/polygon_solid_4.png" width =100% height =100% div align="center">  
 <p align="center">Figure 2.4 </p>

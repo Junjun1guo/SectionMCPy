@@ -14,5 +14,5 @@ ______
 1. Download the zip file
 2. Run the example model (eg. exmple 1)
 
-<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/circle_solid_1.jpg" width =80% height =80% div align="center">  
+<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/circle_solid_1.jpg" width =100% height =100% div align="center">  
 <p align="center">Figure 1.1 </p>

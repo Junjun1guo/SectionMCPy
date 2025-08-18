@@ -7,5 +7,7 @@ Download sectionMCPy from (https://fbs.sh/JunjunGuo/sectionMCPy/sectionMCPySetup
 ## 
 ______
 - [Tutorial-1: Circle section example](#Tutorials-1)
+- [Tutorial-2: Polygon section example](#Tutorials-2)
+______
 
 

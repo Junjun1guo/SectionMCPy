@@ -9,12 +9,10 @@ ______
 - [Tutorial-1: Circle section example](#Tutorials-1)
 - [Tutorial-2: Polygon section example](#Tutorials-2)
 ______
-
-______
 ## Tutorials-1      
 ### Circle section example
 1. Download the zip file
 2. Run the example model (eg. exmple 1)
 
-<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/circle_solid_1.jpg" width =50% height =50% div align="left">        
+<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/circle_solid_1.jpg" width =50% height =50% div align="left">      
 <p align="left">Figure 1.1 </p>

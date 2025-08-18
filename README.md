@@ -16,3 +16,5 @@ ______
 
 <img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/circle_solid_1.jpg" width =100% height =100% div align="center">  
 <p align="center">Figure 1.1 </p>
+<img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/circle_solid_2.jpg" width =100% height =100% div align="center">  
+<p align="center">Figure 1.2 </p>

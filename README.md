@@ -11,7 +11,7 @@ ______
 ______
 ## Tutorials-1      
 ### Circle section example
-1. Download the zip file
+1. Prepare your own section based on the template DXF file (circle_solid.dxf in the current example). The scale factor is 1, and the unit is cm in the template. 
 2. Run the example model (eg. exmple 1)
 
 <img src="https://github.com/Junjun1guo/SectionMCPy/blob/main/circle_solid_1.jpg" width =100% height =100% div align="center">  

@@ -3,6 +3,7 @@ python programming based moment curvature analysis for structural sections
 ## 
 Download sectionMCPy from (https://fbs.sh/JunjunGuo/sectionMCPy/sectionMCPySetup.exe)  (windows version)   
 ## 
+[Cite] Guo, Junjun, Chao Chen, Hui Jiang, Penghui Zhang, Xingji Lu, Chen Liang, and Xinzhi Dang. "SectionMCPy: Python programming-based moment-curvature analysis for cross-sections." SoftwareX 31 (2025): 102365.
 ______
 - [Tutorial-1: Circle section example](#Tutorials-1)
 - [Tutorial-2: Polygon section example](#Tutorials-2)
